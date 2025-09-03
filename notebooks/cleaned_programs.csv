@@ -1,0 +1,703 @@
+id,college_id,program_name,duration,college_name
+1,161,MSc Physics,2 Years,Amrit Science Campus
+5,161,BSc Environmental Science,4 Years,Amrit Science Campus
+8,161,BSc Microbiology,4 Years,Amrit Science Campus
+11,161,BSc Physics,4 Years,Amrit Science Campus
+14,161,MSc Applied Mathematics,2 Years,Amrit Science Campus
+17,161,MSc Botany,2 Years,Amrit Science Campus
+20,161,MSc Chemistry,2 Years,Amrit Science Campus
+23,161,BSc Botany,4 Years,Amrit Science Campus
+26,161,BSc Chemistry,4 Years,Amrit Science Campus
+29,161,BSc Mathematics,4 Years,Amrit Science Campus
+32,161,BSc Statistics,4 Years,Amrit Science Campus
+35,161,BSc Zoology,4 Years,Amrit Science Campus
+38,161,MSc Zoology,2 Years,Amrit Science Campus
+41,161,Master of Information Technology,2 Years,Amrit Science Campus
+44,161,Bachelor of Information Technology,4 Years,Amrit Science Campus
+47,161,BSc Computer Science and Information Technology,4 Years,Amrit Science Campus
+50,163,BSc Computer Science and Information Technology,4 Years,Deerwalk Institute of Technology
+54,163,Bachelor of Computer Application,4 Years,Deerwalk Institute of Technology
+57,164,Master of Business Studies,2 Years,St Lawrence College
+61,164,Bachelor of Arts in Social Work,4 Years,St Lawrence College
+64,164,Bachelor of Business Studies,4 Years,St Lawrence College
+67,164,Bachelor of Computer Application,4 Years,St Lawrence College
+70,164,BSc Computer Science and Information Technology,4 Years,St Lawrence College
+73,166,Ten Plus Two Science,2 Years,Pentagon International College
+77,166,Ten Plus Two Management,2 Years,Pentagon International College
+80,166,Ten Plus Two Humanities,2 Years,Pentagon International College
+83,166,Bachelor of Arts,4 Years,Pentagon International College
+86,166,Bachelor of Arts in Social Work,4 Years,Pentagon International College
+89,166,Bachelor of Business Studies,4 Years,Pentagon International College
+92,168,Ten Plus Two Science,2 Years,College of Business Management
+96,168,Ten Plus Two Management,2 Years,College of Business Management
+99,168,Bachelor of Business Management,4 Years,College of Business Management
+102,168,Bachelor of Business Studies,4 Years,College of Business Management
+105,168,Master of Business Studies,2 Years,College of Business Management
+108,168,CAP-I,6 Months,College of Business Management
+111,168,CAP-II,9 Months,College of Business Management
+114,168,CAP-III,3 Years,College of Business Management
+117,169,Ten Plus Two Science,2 Years,Manaslu World College
+121,169,Ten Plus Two Management,2 Years,Manaslu World College
+124,169,Ten Plus Two Humanities,2 Years,Manaslu World College
+127,169,Ten Plus Two Law,2 Years,Manaslu World College
+130,169,Bachelor of Business Studies,4 Years,Manaslu World College
+133,170,Ten Plus Two Science,2 Years,Herald International College
+137,170,Ten Plus Two Management,2 Years,Herald International College
+140,170,Ten Plus Two Humanities,2 Years,Herald International College
+143,170,Ten Plus Two Law,2 Years,Herald International College
+146,170,Bachelor of Business Studies,4 Years,Herald International College
+149,170,Bachelor of Arts in Social Work,4 Years,Herald International College
+152,171,CAP-I,6 Months,Premier College
+156,171,CAP-II,9 Months,Premier College
+159,171,CAP-III,3 Years,Premier College
+162,171,Ten Plus Two Science,2 Years,Premier College
+165,171,Ten Plus Two Management,2 Years,Premier College
+168,171,Ten Plus Two Humanities,2 Years,Premier College
+171,171,Bachelor of Business Management,4 Years,Premier College
+174,171,Bachelor of Arts in Social Work,4 Years,Premier College
+177,171,Bachelor of Business Studies,4 Years,Premier College
+180,171,Master of Business Studies,2 Years,Premier College
+183,174,BSc (Hons) Computer Science,957000.00,Stamford College Kathmandu
+187,176,Master of Business Administration,465850.00,School of Management - Tribhuvan University
+191,176,MBA in Global Leadership and Management,563900.00,School of Management - Tribhuvan University
+194,176,MBA in Information Technology,556600.00,School of Management - Tribhuvan University
+197,176,MBA Finance and Control,465850.00,School of Management - Tribhuvan University
+200,177,ACCA,3 Years,The British College
+204,177,GCE A Level Science,2 Years,The British College
+207,177,GCE A Level Non-Science,2 Years,The British College
+210,177,BSc (Hons) Computing,4 Years,The British College
+213,177,BSc (Hons) Data Science,4 Years,The British College
+216,177,BSc (Hons) Cyber Security and Digital Forensics,4 Years,The British College
+219,177,BSc (Hons) Computer Science - Artificial Intelligence,4 Years,The British College
+222,177,BSc (Hons) Hospitality Business Management,4 Years,The British College
+225,177,MSc Advanced Computer Science,2 Years,The British College
+228,177,MSc Information and Technology,2 Years,The British College
+231,177,MBA Executive,2 Years,The British College
+234,177,MBA Graduate,2 Years,The British College
+237,178,MBA - Evening Shift,2 Years,Apex College
+241,178,Master of Business Administration,2 Years,Apex College
+244,178,BBA Travel and Tourism,4 Years,Apex College
+247,178,Bachelor of Computer System Information Technology,4 Years,Apex College
+250,178,BBA  Finance,4 Years,Apex College
+253,178,Bachelor of Business Administration,4 Years,Apex College
+256,183,MBBS,5.5 Years,Nepalese Army Institute of Health Sciences
+260,183,MS Clinical Otorhinolaryngology and Head and Neck Surgery,3 Years,Nepalese Army Institute of Health Sciences
+263,183,MD Paediatrics,3 Years,Nepalese Army Institute of Health Sciences
+266,183,MD Pathology,3 Years,Nepalese Army Institute of Health Sciences
+269,183,MD Dermatology,3 Years,Nepalese Army Institute of Health Sciences
+272,183,MD Internal Medicine,3 Years,Nepalese Army Institute of Health Sciences
+275,183,MS Orthopaedic and Trauma Surgery,3 Years,Nepalese Army Institute of Health Sciences
+278,183,MD General Practice,3 Years,Nepalese Army Institute of Health Sciences
+281,183,MS Clinical Anatomy,3 Years,Nepalese Army Institute of Health Sciences
+284,183,MD Obstetrics and Gynaecology,3 Years,Nepalese Army Institute of Health Sciences
+287,183,MD Ophthalmology,3 Years,Nepalese Army Institute of Health Sciences
+290,183,MD Psychiatry,3 Years,Nepalese Army Institute of Health Sciences
+293,183,MD Radio Diagnosis,3 Years,Nepalese Army Institute of Health Sciences
+296,183,MD Clinical Pharmacology,3 Years,Nepalese Army Institute of Health Sciences
+299,183,MD Clinical Physiology,3 Years,Nepalese Army Institute of Health Sciences
+302,183,MD Microbiology,3 Years,Nepalese Army Institute of Health Sciences
+305,183,MS General Surgery,3 Years,Nepalese Army Institute of Health Sciences
+308,183,Bachelor of Public Health,4 Years,Nepalese Army Institute of Health Sciences
+311,183,Bachelor of Science in Medical Laboratory Technology,4 Years,Nepalese Army Institute of Health Sciences
+314,187,Master of Dental Surgery,3 Years,Maharajgunj Medical Campus
+318,187,MD Radio Diagnosis,3 Years,Maharajgunj Medical Campus
+321,187,MS Clinical Otorhinolaryngology and Head and Neck Surgery,3 Years,Maharajgunj Medical Campus
+324,187,MD Ophthalmology,3 Years,Maharajgunj Medical Campus
+327,187,MD Obstetrics and Gynaecology,3 Years,Maharajgunj Medical Campus
+330,187,MD Internal Medicine,3 Years,Maharajgunj Medical Campus
+333,187,MD Biochemistry,3 Years,Maharajgunj Medical Campus
+336,187,MS Orthopaedic and Trauma Surgery,3 Years,Maharajgunj Medical Campus
+339,187,MS General Surgery,3 Years,Maharajgunj Medical Campus
+342,187,MD Psychiatry,3 Years,Maharajgunj Medical Campus
+345,187,MD Pathology,3 Years,Maharajgunj Medical Campus
+348,187,MD Microbiology,3 Years,Maharajgunj Medical Campus
+351,187,MD Paediatrics,3 Years,Maharajgunj Medical Campus
+354,187,MD Forensic Medicine,3 Years,Maharajgunj Medical Campus
+357,187,MD Dermatology,3 Years,Maharajgunj Medical Campus
+360,187,MSc Medical Imaging Technology,2 Years,Maharajgunj Medical Campus
+363,187,MSc Clinical Biochemistry,3 Years,Maharajgunj Medical Campus
+366,187,MSc Clinical Microbiology,3 Years,Maharajgunj Medical Campus
+369,187,MDS Orthodontics,3 Years,Maharajgunj Medical Campus
+372,187,MS Clinical Anatomy,3 Years,Maharajgunj Medical Campus
+375,188,Bachelor of Computer Application,4 Years,Arunima College
+379,188,Bachelor of Business Studies,4 Years,Arunima College
+382,192,Master of Arts in Social Work,2 Years,Kadambari Memorial College
+386,192,Bachelor of Arts in Social Work,4 Years,Kadambari Memorial College
+389,196,Ten Plus Two Science,2 Years,Jubilant College
+393,196,Ten Plus Two Management,2 Years,Jubilant College
+396,196,Ten Plus Two Humanities,2 Years,Jubilant College
+399,196,Ten Plus Two Law,2 Years,Jubilant College
+402,196,Bachelor of Business Studies,4 Years,Jubilant College
+405,197,Bachelor of Business Administration,4 Years,Ace International Business School
+409,197,Global MBA,2 Years,Ace International Business School
+412,199,Master of Business Administration,2 Years,SANN International College
+416,199,Bachelor of Arts in Bachelor of Laws,5 Years,SANN International College
+419,199,Bachelor of Business Administration,4 Years,SANN International College
+422,199,BSc Biotechnology,4 Years,SANN International College
+425,199,Ten Plus Two Management,2 Years,SANN International College
+428,199,Ten Plus Two Science,2 Years,SANN International College
+431,199,Ten Plus Two Humanities,2 Years,SANN International College
+434,199,Ten Plus Two Law,2 Years,SANN International College
+440,200,ACCA,3 Years,Seed Financial Academy
+444,201,Bachelor of Public Health,4 Years,Little Buddha College of Health Science
+448,201,Bachelor of Pharmacy,4 Years,Little Buddha College of Health Science
+451,204,Ten Plus Two Management,2 Years,Global College of Management
+455,204,Bachelor of Business Studies,4 Years,Global College of Management
+458,204,Master of Business Studies,2 Years,Global College of Management
+461,206,Ten Plus Two Science,2 Years,Capital College and Research Center
+465,206,Ten Plus Two Management,2 Years,Capital College and Research Center
+468,206,Ten Plus Two Law,2 Years,Capital College and Research Center
+471,209,Ten Plus Two Science,2 Years,Himalaya College
+475,209,Ten Plus Two Management,2 Years,Himalaya College
+478,209,Ten Plus Two Humanities,2 Years,Himalaya College
+481,209,Ten Plus Two Law,2 Years,Himalaya College
+484,209,Ten Plus Two Education,2 Years,Himalaya College
+487,209,Master of Business Studies,2 Years,Himalaya College
+490,209,Bachelor of Arts in Social Work,4 Years,Himalaya College
+493,209,Bachelor of Arts,4 Years,Himalaya College
+496,209,BSc Computer Science and Information Technology,4 Years,Himalaya College
+499,209,Bachelor of Business Administration,4 Years,Himalaya College
+502,209,Bachelor of Business Studies,4 Years,Himalaya College
+505,209,Master of Business Administration,2 Years,Himalaya College
+508,210,Master of Business Studies,2 Years,Nepal Kasthamandap College
+512,210,Bachelor of Computer Application,4 Years,Nepal Kasthamandap College
+515,210,Bachelor of Business Studies,4 Years,Nepal Kasthamandap College
+518,210,Bachelor of Business Administration,4 Years,Nepal Kasthamandap College
+521,210,Ten Plus Two Education,2 Years,Nepal Kasthamandap College
+524,210,Ten Plus Two Science,2 Years,Nepal Kasthamandap College
+527,210,Ten Plus Two Management,2 Years,Nepal Kasthamandap College
+530,210,Ten Plus Two Humanities,2 Years,Nepal Kasthamandap College
+533,210,Ten Plus Two Law,2 Years,Nepal Kasthamandap College
+536,210,Master of Business Administration,2 Years,Nepal Kasthamandap College
+539,214,BSc Computer Science and Information Technology,830000.00,College of Applied Business and Technology
+543,214,Bachelor of Business Administration,830000.00,College of Applied Business and Technology
+546,214,Bachelor of Information Technology Management,535000.00,College of Applied Business and Technology
+549,214,Bachelor of Business Studies,4 Years,College of Applied Business and Technology
+552,220,Ten Plus Two Science,2 Years,NAMI College
+556,220,Ten Plus Two Management,2 Years,NAMI College
+559,220,GCE A Level Non-Science,2 Years,NAMI College
+562,220,GCE A Level Science,2 Years,NAMI College
+565,220,Bachelor of Business Administration,3 Years,NAMI College
+568,220,BSc (Hons) Environment Science,3 Years,NAMI College
+571,220,BSc (Hons) Computer Science,3 Years,NAMI College
+574,220,MSc Computing,2 Years,NAMI College
+577,221,Ten Plus Two Science,2 Years,GoldenGate International College
+581,221,Ten Plus Two Management,2 Years,GoldenGate International College
+584,221,Ten Plus Two Humanities,2 Years,GoldenGate International College
+587,221,Bachelor of Computer Application,4 Years,GoldenGate International College
+590,221,Bachelor of Business Management,4 Years,GoldenGate International College
+593,221,Bachelor of Business Studies,4 Years,GoldenGate International College
+596,221,Bachelor of Hotel Management,4 Years,GoldenGate International College
+599,221,Bachelor of Food Technology,4 Years,GoldenGate International College
+602,221,BSc Physics,4 Years,GoldenGate International College
+605,221,BSc Microbiology,4 Years,GoldenGate International College
+608,221,BSc Environmental Science,4 Years,GoldenGate International College
+611,221,Bachelor of Arts in Social Work,4 Years,GoldenGate International College
+614,221,Bachelor of Arts,4 Years,GoldenGate International College
+617,221,Master of Business Studies,2 Years,GoldenGate International College
+620,221,MSc Physics,2 Years,GoldenGate International College
+623,221,MSc Microbiology,2 Years,GoldenGate International College
+626,221,MSc Environmental Science,2 Years,GoldenGate International College
+629,221,Master of Arts in English,2 Years,GoldenGate International College
+632,221,Master of Arts in Economics,2 Years,GoldenGate International College
+635,225,Bachelor of Computer Application,4 Years,Advanced College of Engineering and Management
+639,225,"Bachelor of Electronics, Communication and Information Engineering",4 Years,Advanced College of Engineering and Management
+642,225,Bachelor of Computer Engineering,4 Years,Advanced College of Engineering and Management
+645,225,Bachelor of Electrical Engineering,4 Years,Advanced College of Engineering and Management
+648,225,Bachelor of Civil Engineering,4 Years,Advanced College of Engineering and Management
+651,226,Master of Business Studies,2 Years,Kathmandu BernHardt College
+655,226,Bachelor of Business Management,4 Years,Kathmandu BernHardt College
+658,226,Bachelor of Computer Application,4 Years,Kathmandu BernHardt College
+661,226,Bachelor of Arts in Social Work,4 Years,Kathmandu BernHardt College
+664,226,Bachelor of Business Studies,4 Years,Kathmandu BernHardt College
+667,226,BSc Computer Science and Information Technology,4 Years,Kathmandu BernHardt College
+670,226,Ten Plus Two Science,2 Years,Kathmandu BernHardt College
+673,226,Ten Plus Two Management,2 Years,Kathmandu BernHardt College
+676,226,Ten Plus Two Humanities,2 Years,Kathmandu BernHardt College
+679,229,Bachelor of Business Studies,4 Years,Divya Gyan College
+683,229,Bachelor of Computer Application,4 Years,Divya Gyan College
+686,231,Master of Information Technology,2 Years,College of Information Technology and Engineering
+690,231,Bachelor of Business Administration,4 Years,College of Information Technology and Engineering
+693,231,Bachelor of Computer Engineering,4 Years,College of Information Technology and Engineering
+696,231,Bachelor of Information Technology,4 Years,College of Information Technology and Engineering
+699,231,Bachelor of Computer Application,4 Years,College of Information Technology and Engineering
+702,232,Bachelor of Information Technology (Hons),4 Years,Mid-Valley International College
+706,232,Bachelor of Business in Hospitality Management (Hons),4 Years,Mid-Valley International College
+709,232,Bachelor of Business Finance (Hons),4 Years,Mid-Valley International College
+712,233,Master of Business Studies,2 Years,People's Campus
+716,233,Bachelor of Business Management,4 Years,People's Campus
+719,233,Bachelor of Business Studies,4 Years,People's Campus
+722,233,Bachelor of Business Administration,4 Years,People's Campus
+725,233,Ten Plus Two Management,2 Years,People's Campus
+728,235,Ten Plus Two Science,2 Years,KIST College
+732,235,Ten Plus Two Management,2 Years,KIST College
+735,235,Master of Information Technology,2 Years,KIST College
+738,235,MSc Microbiology,2 Years,KIST College
+741,235,Master of Business Studies,2 Years,KIST College
+744,235,BSc Microbiology,4 Years,KIST College
+747,235,Bachelor of Business Studies,4 Years,KIST College
+750,235,Bachelor of Information Technology,4 Years,KIST College
+753,235,Bachelor of Information Technology Management,4 Years,KIST College
+756,235,Bachelor of Business Administration,4 Years,KIST College
+759,239,Bachelor of Information Technology,4 Years,Phoenix College of Management
+763,239,BSc (Hons) in Hospitality Management,4 Years,Phoenix College of Management
+766,239,Bachelor (Hons) of Business Administration,4 Years,Phoenix College of Management
+769,239,Master of Computer Science,2 Years,Phoenix College of Management
+772,239,Master of Business Administration,2 Years,Phoenix College of Management
+775,247,Bachelor of Architecture,5 Years,Kathmandu Engineering College
+779,247,Bachelor of Electrical Engineering,4 Years,Kathmandu Engineering College
+782,247,Bachelor of Computer Engineering,4 Years,Kathmandu Engineering College
+785,247,"Bachelor of Electronics, Communication and Information Engineering",4 Years,Kathmandu Engineering College
+788,247,Bachelor of Civil Engineering,4 Years,Kathmandu Engineering College
+791,251,Ten Plus Two Science,2 Years,Orient College
+795,251,Ten Plus Two Management,2 Years,Orient College
+798,251,GCE A Level Non-Science,2 Years,Orient College
+801,251,GCE A Level Science,2 Years,Orient College
+804,251,Bachelor of Arts in Social Work,4 Years,Orient College
+807,251,Bachelor of Business Studies,4 Years,Orient College
+810,254,MSc Electrical Power Engineering,2 Years,Hillside College of Engineering
+814,254,MSc Construction Management,2 Years,Hillside College of Engineering
+817,254,Bachelor of Electrical Engineering,4 Years,Hillside College of Engineering
+820,254,Bachelor of Civil Engineering,4 Years,Hillside College of Engineering
+823,257,Bachelor of Science (General),4 Years,Canvas International College
+827,257,Ten Plus Two Science,2 Years,Canvas International College
+830,257,Ten Plus Two Humanities,2 Years,Canvas International College
+833,257,Ten Plus Two Law,2 Years,Canvas International College
+836,257,Ten Plus Two Management,2 Years,Canvas International College
+839,257,Master of Business Studies,2 Years,Canvas International College
+842,257,Bachelor of Arts in Social Work,4 Years,Canvas International College
+845,257,Bachelor of Business Studies,4 Years,Canvas International College
+848,258,Master of Travel and Tourism Management,2 Years,Public Youth Campus
+852,258,Master of Business Management,2 Years,Public Youth Campus
+855,258,Master of Business Studies,2 Years,Public Youth Campus
+858,258,Bachelor of Business Management,4 Years,Public Youth Campus
+861,258,Bachelor of Business Studies,4 Years,Public Youth Campus
+864,258,Bachelor of Business Administration,4 Years,Public Youth Campus
+867,260,Bachelor of Computer Application,4 Years,National College of Computer Studies
+871,260,Bachelor of Business Management,4 Years,National College of Computer Studies
+874,260,BSc Computer Science and Information Technology,4 Years,National College of Computer Studies
+877,260,Bachelor of Hotel Management,4 Years,National College of Computer Studies
+880,260,Bachelor of Information Technology Management,4 Years,National College of Computer Studies
+883,262,Bachelor of Computer Application,4 Years,Kantipur College of Management and Information Technology
+887,262,Bachelor of Information Technology Management,4 Years,Kantipur College of Management and Information Technology
+890,262,Bachelor of Business Administration,4 Years,Kantipur College of Management and Information Technology
+893,264,Master of Business Administration,2 Years,Apollo International College
+897,264,Bachelor of Computer System Information Technology,4 Years,Apollo International College
+900,264,Bachelor of Hotel Management,4 Years,Apollo International College
+903,264,BBA  Finance,4 Years,Apollo International College
+906,264,Bachelor of Business Administration,4 Years,Apollo International College
+909,266,Bachelor of Business Administration,4 Years,Camad College
+913,266,Bachelor of Development Studies,4 Years,Camad College
+916,266,Bachelor of Hotel Management,4 Years,Camad College
+919,266,Bachelor of Computer Application,4 Years,Camad College
+922,268,BBA  Finance,4 Years,Malpi International College
+926,268,Bachelor of Business Administration,4 Years,Malpi International College
+929,268,Bachelor of Computer System Information Technology,4 Years,Malpi International College
+932,268,Master of Business Administration,2 Years,Malpi International College
+935,272,Ten Plus Two Management,2 Years,Texas International College
+939,272,Ten Plus Two Science,2 Years,Texas International College
+942,272,Master of Business Studies,2 Years,Texas International College
+945,272,Bachelor of Arts,4 Years,Texas International College
+948,272,Bachelor of Business Management,4 Years,Texas International College
+951,272,Bachelor of Arts in Social Work,4 Years,Texas International College
+954,272,Bachelor of Business Studies,4 Years,Texas International College
+957,272,BSc Computer Science and Information Technology,4 Years,Texas International College
+960,272,Bachelor of Computer Application,4 Years,Texas International College
+963,273,Ten Plus Two Management,2 Years,VS Niketan College
+967,273,Ten Plus Two Science,2 Years,VS Niketan College
+970,273,Executive MBA,1.5 Years,VS Niketan College
+973,273,Bachelor of Business Administration,4 Years,VS Niketan College
+976,275,Ten Plus Two Management,88000.00,New Millennium College
+980,275,Master of Arts in English,50000.00,New Millennium College
+983,275,Bachelor of Business Studies,50000.00,New Millennium College
+986,275,Bachelor of Arts,45000.00,New Millennium College
+989,275,Ten Plus Two Science,98000.00,New Millennium College
+992,276,Bachelor of Arts in Sociology,4 Years,Thames International College
+996,276,Bachelor of Arts in Psychology,4 Years,Thames International College
+999,276,Bachelor of Business Management,4 Years,Thames International College
+1002,276,Bachelor of Computer Application,4 Years,Thames International College
+1005,276,Bachelor of Arts in Social Work,4 Years,Thames International College
+1008,276,Bachelor of Information Technology Management,4 Years,Thames International College
+1011,276,Bachelor of Business Administration,4 Years,Thames International College
+1014,277,Ten Plus Two Management,2 Years,Ashirwad College
+1018,277,Bachelor of Business Management,4 Years,Ashirwad College
+1021,277,Bachelor of Business Studies,4 Years,Ashirwad College
+1024,279,Master of Business Studies,2 Years,Xavier International College
+1028,279,Bachelor of Arts in Social Work,4 Years,Xavier International College
+1031,279,Bachelor of Business Management,4 Years,Xavier International College
+1034,279,Bachelor of Business Studies,4 Years,Xavier International College
+1037,279,Bachelor of Computer Application,4 Years,Xavier International College
+1040,279,BSc Environmental Science,4 Years,Xavier International College
+1043,279,BSc Microbiology,4 Years,Xavier International College
+1046,279,GCE A Level Non-Science,2 Years,Xavier International College
+1049,279,Ten Plus Two Science,2 Years,Xavier International College
+1052,279,Ten Plus Two Management,2 Years,Xavier International College
+1055,279,Ten Plus Two Humanities,2 Years,Xavier International College
+1058,279,GCE A Level Science,2 Years,Xavier International College
+1061,279,Ten Plus Two Law,2 Years,Xavier International College
+1064,280,Masters of Business Administration,2 Years,Nepal Mega College
+1068,280,Bachelor of Business Administration,4 Years,Nepal Mega College
+1071,280,Master of Business Studies,2 Years,Nepal Mega College
+1074,280,Bachelor of Arts in Rural Development,4 Years,Nepal Mega College
+1077,280,Bachelor of Computer Application,4 Years,Nepal Mega College
+1080,280,Bachelor of Arts in Social Work,4 Years,Nepal Mega College
+1083,280,Bachelor of Business Management,4 Years,Nepal Mega College
+1086,280,Bachelor of Business Studies,4 Years,Nepal Mega College
+1089,280,Ten Plus Two Science,2 Years,Nepal Mega College
+1092,280,Ten Plus Two Management,2 Years,Nepal Mega College
+1095,280,Ten Plus Two Law,2 Years,Nepal Mega College
+1098,282,Ten Plus Two Humanities,2 Years,Triton International College
+1102,282,Ten Plus Two Science,2 Years,Triton International College
+1105,282,Ten Plus Two Management,2 Years,Triton International College
+1108,282,Ten Plus Two Law,2 Years,Triton International College
+1111,282,Master of Business Studies,2 Years,Triton International College
+1114,282,Bachelor of Computer Application,4 Years,Triton International College
+1117,282,Bachelor of Business Studies,4 Years,Triton International College
+1120,282,Bachelor of Arts in Social Work,4 Years,Triton International College
+1123,283,Master of Business Administration,2 Years,Uniglobe College
+1127,283,MBA Finance,2 Years,Uniglobe College
+1130,283,Bachelor of Computer System Information Technology,4 Years,Uniglobe College
+1133,283,BBA  Finance,4 Years,Uniglobe College
+1136,283,Bachelor of Business Administration,4 Years,Uniglobe College
+1139,285,BSc Information Technology,4 Years,King’s College
+1143,285,BSc Computer Science,4 Years,King’s College
+1146,285,Bachelor of Business Administration,4 Years,King’s College
+1149,285,Master of Business Administration,2 Years,King’s College
+1152,286,Ten Plus Two Science,2 Years,Madan Bhandari Memorial College
+1156,286,Ten Plus Two Humanities,2 Years,Madan Bhandari Memorial College
+1159,286,Ten Plus Two Management,2 Years,Madan Bhandari Memorial College
+1162,286,BSc Computer Science and Information Technology,4 Years,Madan Bhandari Memorial College
+1165,286,Bachelor of Computer Application,4 Years,Madan Bhandari Memorial College
+1168,286,Bachelor of Business Management,4 Years,Madan Bhandari Memorial College
+1171,286,Bachelor of Business Studies,4 Years,Madan Bhandari Memorial College
+1174,286,Bachelor of Arts,4 Years,Madan Bhandari Memorial College
+1177,286,Bachelor of Arts in Social Work,4 Years,Madan Bhandari Memorial College
+1180,286,Master of Arts in English,2 Years,Madan Bhandari Memorial College
+1183,286,Master of Arts in Journalism and Mass Communication,2 Years,Madan Bhandari Memorial College
+1186,286,Master of Arts in Sociology,2 Years,Madan Bhandari Memorial College
+1189,290,Bachelor of Hotel Management,4 Years,Morgan International College
+1193,290,Ten Plus Two Science,2 Years,Morgan International College
+1196,290,Ten Plus Two Management,2 Years,Morgan International College
+1199,290,Ten Plus Two Humanities,2 Years,Morgan International College
+1202,290,Bachelor of Arts in Social Work,4 Years,Morgan International College
+1208,290,Bachelor of Business Management,4 Years,Morgan International College
+1211,290,Bachelor of Computer Application,4 Years,Morgan International College
+1214,290,Master of Business Studies,2 Years,Morgan International College
+1217,290,Bachelor of Business Studies,4 Years,Morgan International College
+1220,290,Bachelor of Information Technology Management,4 Years,Morgan International College
+1223,291,BSc Zoology,4 Years,Trichandra Multiple Campus
+1227,291,BSc Statistics,4 Years,Trichandra Multiple Campus
+1230,291,BSc Mathematics,4 Years,Trichandra Multiple Campus
+1233,291,BSc Meteorology,4 Years,Trichandra Multiple Campus
+1236,291,BSc Botany,4 Years,Trichandra Multiple Campus
+1239,291,BSc Chemistry,4 Years,Trichandra Multiple Campus
+1242,291,Bachelor of Arts in Social Work,4 Years,Trichandra Multiple Campus
+1245,291,Master of Arts in Economics,2 Years,Trichandra Multiple Campus
+1248,291,Master of Arts in Anthropology,2 Years,Trichandra Multiple Campus
+1251,291,MSc Engineering Geology,2 Years,Trichandra Multiple Campus
+1254,291,Master of Arts in Psychology,2 Years,Trichandra Multiple Campus
+1257,291,Bachelor of Arts,4 Years,Trichandra Multiple Campus
+1260,291,Bachelor of Arts in Rural Development,4 Years,Trichandra Multiple Campus
+1263,291,Master of Arts in Sociology,2 Years,Trichandra Multiple Campus
+1266,291,Master of Arts in Nepali,2 Years,Trichandra Multiple Campus
+1269,291,BSc Geology,4 Years,Trichandra Multiple Campus
+1272,291,BSc Physics,4 Years,Trichandra Multiple Campus
+1275,291,BSc Environmental Science,4 Years,Trichandra Multiple Campus
+1278,291,MSc Chemistry,2 Years,Trichandra Multiple Campus
+1281,291,MSc Microbiology,2 Years,Trichandra Multiple Campus
+1284,293,BSc (Hons) Cybersecurity,3 Years,Herald College
+1288,293,BSc (Hons) in Computer Science,3 Years,Herald College
+1291,293,BSc (Hons) International Business Management,4 Years,Herald College
+1294,293,International Master of Business Administration,2 Years,Herald College
+1297,294,MSc Informatics and Intelligent Systems Engineering,2 Years,Thapathali Campus
+1301,294,Bachelor of Computer Engineering,4 Years,Thapathali Campus
+1304,294,MSc Mechanical Engineering in Design and Manufacturing,2 Years,Thapathali Campus
+1307,294,Bachelor of Mechanical Engineering,4 Years,Thapathali Campus
+1310,294,Bachelor in Automobile Engineering,4 Years,Thapathali Campus
+1313,294,MSc Earthquake Engineering,2 Years,Thapathali Campus
+1316,294,Bachelor of Architecture,5 Years,Thapathali Campus
+1319,294,Bachelor of Civil Engineering,4 Years,Thapathali Campus
+1405,300,Bachelor of Business Management,4 Years,Trinity International College
+1322,294,"Bachelor of Electronics, Communication and Information Engineering",4 Years,Thapathali Campus
+1325,294,Bachelor in Industrial Engineering,4 Years,Thapathali Campus
+1328,296,Master of Business Administration,2 Years,Excel Business College
+1332,296,BBA  Finance,4 Years,Excel Business College
+1335,296,Bachelor of Business Administration,4 Years,Excel Business College
+1338,296,Bachelor of Computer System Information Technology,4 Years,Excel Business College
+1341,297,MA Mass Communication and Journalism,2 Years,Kantipur City College
+1345,297,Master of Computer Application,2 Years,Kantipur City College
+1348,297,PGD Computer Application,1 Year,Kantipur City College
+1351,297,Bachelor of Business Administration,4 Years,Kantipur City College
+1354,297,Bachelor of Computer Engineering,4 Years,Kantipur City College
+1357,297,Bachelor of Civil Engineering,4 Years,Kantipur City College
+1360,297,Bachelor of Computer Application,4 Years,Kantipur City College
+1363,297,Bachelor of Information Technology,4 Years,Kantipur City College
+1366,298,Bachelor of Information Technology,4 Years,National College of Management and Technical Science
+1370,298,Bachelor of Computer Science (Hons) Network Technology & Cyber Security,4 Years,National College of Management and Technical Science
+1373,298,Bachelor (Hons) of Business Administration,4 Years,National College of Management and Technical Science
+1376,298,BSc (Hons) in Hospitality Management,4 Years,National College of Management and Technical Science
+1379,298,Master of Business Administration,2 Years,National College of Management and Technical Science
+1382,300,GCE A Level Science,2 Years,Trinity International College
+1386,300,GCE A Level Non-Science,2 Years,Trinity International College
+1389,300,Ten Plus Two Science,2 Years,Trinity International College
+1392,300,Ten Plus Two Management,2 Years,Trinity International College
+1395,300,Ten Plus Two Humanities,2 Years,Trinity International College
+1398,300,BSc Computer Science and Information Technology,4 Years,Trinity International College
+1401,300,Bachelor of Computer Application,4 Years,Trinity International College
+1407,300,Bachelor of Business Studies,4 Years,Trinity International College
+1410,300,Bachelor of Arts in Social Work,4 Years,Trinity International College
+1413,303,Bachelor of Computer System Information Technology,4 Years,Medhavi College
+1417,303,Bachelor of Hotel Management,4 Years,Medhavi College
+1420,303,Bachelor of Business Administration,4 Years,Medhavi College
+1423,303,Master of Business Administration,2 Years,Medhavi College
+1426,303,Master of Computer Information Systems,2 Years,Medhavi College
+1429,304,Bachelor of Computer Application,4 Years,Ratna Rajya Laxmi Campus
+1433,304,"Bachelor of Arts in Nepalese History, Culture and Archaeology",4 Years,Ratna Rajya Laxmi Campus
+1436,304,Master of Arts in Population Studies,2 Years,Ratna Rajya Laxmi Campus
+1439,304,Master of Arts in Journalism and Mass Communication,2 Years,Ratna Rajya Laxmi Campus
+1442,304,Bachelor of Arts in Major English,4 Years,Ratna Rajya Laxmi Campus
+1445,304,Master of Arts in Nepali,2 Years,Ratna Rajya Laxmi Campus
+1448,305,MBA (Global Business),2 Years,SAIM College
+1452,305,Bachelor of Computer System Information Technology,4 Years,SAIM College
+1455,305,Bachelor of Business Administration,4 Years,SAIM College
+1458,310,Bachelor of Health Care Management,4 Years,Central College of Business Management
+1462,310,Bachelor of Hotel Management,4 Years,Central College of Business Management
+1465,310,Bachelor of Business Administration,4 Years,Central College of Business Management
+1468,310,Master of Healthcare Management,2 Years,Central College of Business Management
+1471,312,Bachelor of Computer Application,4 Years,GP Koirala Memorial College
+1475,312,Bachelor of Arts in Social Work,4 Years,GP Koirala Memorial College
+1478,312,Master of Business Studies,2 Years,GP Koirala Memorial College
+1481,312,Bachelor of Education,4 Years,GP Koirala Memorial College
+1484,312,Bachelor of Business Studies,4 Years,GP Koirala Memorial College
+1487,312,Bachelor of Arts,4 Years,GP Koirala Memorial College
+1490,313,Bachelor of Information Technology,4 Years,Texas College of Management and IT
+1494,313,Bachelor of Computer Science (Hons) Network Technology & Cyber Security,4 Years,Texas College of Management and IT
+1497,313,Bachelor (Hons) of Business Administration,4 Years,Texas College of Management and IT
+1500,313,BSc (Hons) in Hospitality Management,4 Years,Texas College of Management and IT
+1503,313,Master of Computer Science,2 Years,Texas College of Management and IT
+1506,313,Master of Business Administration,2 Years,Texas College of Management and IT
+1509,313,MBA in Hospitality Management,2 Years,Texas College of Management and IT
+1512,319,Bachelor of Arts in Gender Studies,4 Years,K and K International College
+1516,319,Master of Arts in Psychology,2 Years,K and K International College
+1519,319,Master of Business Studies,2 Years,K and K International College
+1522,319,Bachelor of Arts in Rural Development,4 Years,K and K International College
+1528,319,Bachelor of Arts in Psychology,4 Years,K and K International College
+1531,319,Bachelor of Computer Application,4 Years,K and K International College
+1534,319,Bachelor of Arts in Social Work,4 Years,K and K International College
+1537,319,Bachelor of Business Studies,4 Years,K and K International College
+1540,319,Bachelor of Business Administration,4 Years,K and K International College
+1543,322,MBA - Evening Shift,2 Years,Atharva Business College
+1547,322,Master of Healthcare Management,2 Years,Atharva Business College
+1550,322,Bachelor of Health Care Management,4 Years,Atharva Business College
+1553,322,Bachelor of Hotel Management,4 Years,Atharva Business College
+1556,322,Bachelor of Business Administration,4 Years,Atharva Business College
+1559,323,Bachelor of Arts in Social Work,4 Years,Orchid International College
+1563,323,Bachelor of Business Studies,4 Years,Orchid International College
+1566,323,Bachelor of Computer Application,4 Years,Orchid International College
+1569,323,Bachelor of Business Management,4 Years,Orchid International College
+1572,323,BSc Computer Science and Information Technology,4 Years,Orchid International College
+1575,323,Bachelor of Information Technology Management,4 Years,Orchid International College
+1578,323,Bachelor of Business Administration,4 Years,Orchid International College
+1581,324,Bachelor of Business Administration,4 Years,Nepal Commerce Campus
+1585,324,BBA Finance,4 Years,Nepal Commerce Campus
+1588,324,Bachelor of Business Management,4 Years,Nepal Commerce Campus
+1591,324,Bachelor of Information Technology Management,4 Years,Nepal Commerce Campus
+1594,324,Bachelor of Business Studies,4 Years,Nepal Commerce Campus
+1597,324,Master of Business Management,2 Years,Nepal Commerce Campus
+1600,324,Master of Business Studies,2 Years,Nepal Commerce Campus
+1603,325,Bachelor of Computer Application,4 Years,Kathmandu Business Campus
+1607,325,Bachelor of Business Studies,4 Years,Kathmandu Business Campus
+1610,326,BSc (Hons) Ethical Hacking and Cybersecurity,1299200.00,Softwarica College of IT and E-commerce
+1614,326,BSc (Hons) Computer Science with AI,1323200.00,Softwarica College of IT and E-commerce
+1617,326,BSc (Hons) Computing,1299200.00,Softwarica College of IT and E-commerce
+1620,326,MSc Data Science and Computational Intelligence,615900.00,Softwarica College of IT and E-commerce
+1623,328,Bachelor of Computer Application,4 Years,Citizen College
+1627,328,BBA Travel and Tourism,4 Years,Citizen College
+1630,328,Bachelor of Business Administration,4 Years,Citizen College
+1633,328,Master of Healthcare Management,2 Years,Citizen College
+1636,329,Master of Business Studies,2 Years,Modern Nepal College
+1640,329,Bachelor of Business Studies,4 Years,Modern Nepal College
+1643,329,Bachelor of Business Administration,4 Years,Modern Nepal College
+1646,330,Ten Plus Two Humanities,2 Years,Richmond International College
+1650,330,Ten Plus Two Science,2 Years,Richmond International College
+1653,330,Ten Plus Two Management,2 Years,Richmond International College
+1656,330,Ten Plus Two Law,2 Years,Richmond International College
+1659,330,Bachelor of Arts,4 Years,Richmond International College
+1662,330,Bachelor of Business Studies,4 Years,Richmond International College
+1665,332,BSc (Hons) Cyber Security and Digital Forensics,3 Years,ISMT College
+1669,332,BSc (Hons) International Tourism and Hospitality Management,3 Years,ISMT College
+1672,332,BA (Hons) Business and Management,3 Years,ISMT College
+1675,332,BSc (Hons) Computer Systems Engineering,3 Years,ISMT College
+1678,333,Bachelor of Business Studies,4 Years,Shanker Dev Campus
+1682,333,Bachelor of Business Management,4 Years,Shanker Dev Campus
+1685,333,Bachelor of Information Technology Management,4 Years,Shanker Dev Campus
+1688,333,Bachelor of Business Administration,4 Years,Shanker Dev Campus
+1691,333,BBA Finance,4 Years,Shanker Dev Campus
+1694,333,Master of Business Studies,2 Years,Shanker Dev Campus
+1697,333,Master of Business Management,2 Years,Shanker Dev Campus
+1700,333,MBA Finance,2 Years,Shanker Dev Campus
+1703,342,BSc (Hons) Computer Science,1149000.00,The London College
+1707,343,Bachelor of Health Care Management,4 Years,Imperial Business College
+1711,343,Bachelor of Business Administration,4 Years,Imperial Business College
+1714,343,Master of Healthcare Management,2 Years,Imperial Business College
+1717,344,BSc (Hons) Computer and Data Science,1165000.00,Sunway College
+1721,345,MBA Finance,2 Years,Atlantic International College
+1725,345,Master of Business Administration,2 Years,Atlantic International College
+1728,345,BBA  Finance,4 Years,Atlantic International College
+1731,345,Bachelor of Business Administration,4 Years,Atlantic International College
+1734,346,Bachelor of Computer System Information Technology,4 Years,Liberty College
+1738,346,Bachelor of Hotel Management,4 Years,Liberty College
+1741,346,BBA  Finance,4 Years,Liberty College
+1744,346,Bachelor of Business Administration,4 Years,Liberty College
+1747,347,Master of Business Administration,2 Years,Model Institute of Technology
+1751,347,Bachelors of Information Technology,4 Years,Model Institute of Technology
+1754,347,Bachelor of Business Administration,4 Years,Model Institute of Technology
+1757,348,MBA - Evening Shift,2 Years,Ace Institute of Management
+1761,348,Executive MBA,1.5 Years,Ace Institute of Management
+1764,348,Master of Business Administration,2 Years,Ace Institute of Management
+1767,348,BBA  Finance,4 Years,Ace Institute of Management
+1770,348,Bachelor of Computer System Information Technology,4 Years,Ace Institute of Management
+1776,348,Bachelor of Business Administration,4 Years,Ace Institute of Management
+1779,348,GCE A Level Non-Science,2 Years,Ace Institute of Management
+1782,348,GCE A Level Science,2 Years,Ace Institute of Management
+1785,354,Bachelor of Civil Engineering,4 Years,Aryan School of Engineering and Management
+1789,354,Bachelor of Business Administration,4 Years,Aryan School of Engineering and Management
+1792,354,Bachelor of Computer Application,4 Years,Aryan School of Engineering and Management
+1795,354,Bachelor of Information Technology,4 Years,Aryan School of Engineering and Management
+1798,359,Master of Business Studies,2 Years,Kathmandu Model College
+1802,359,Master of Arts in English,2 Years,Kathmandu Model College
+1805,359,Bachelor of Arts in Psychology,4 Years,Kathmandu Model College
+1808,359,Bachelor of Business Management,4 Years,Kathmandu Model College
+1814,359,Bachelor of Computer Application,4 Years,Kathmandu Model College
+1817,359,Bachelor of Arts,4 Years,Kathmandu Model College
+1820,359,Bachelor of Arts in Social Work,4 Years,Kathmandu Model College
+1823,359,Bachelor of Business Studies,4 Years,Kathmandu Model College
+1826,359,Bachelor of Business Administration,4 Years,Kathmandu Model College
+1829,360,Master of Business Administration,2 Years,AADIM National College
+1833,360,Bachelor of Business Administration,4 Years,AADIM National College
+1836,360,BSc Computer Science and Information Technology,4 Years,AADIM National College
+1839,360,Bachelor of Arts in Journalism and Mass Communication,4 Years,AADIM National College
+1842,360,Bachelor of Arts in Psychology,4 Years,AADIM National College
+1845,360,Bachelor of Arts in Social Work,4 Years,AADIM National College
+1848,360,Bachelor of Arts,4 Years,AADIM National College
+1851,360,Bachelor of Business Studies,4 Years,AADIM National College
+1854,360,Bachelor of Computer Application,4 Years,AADIM National College
+1857,360,Ten Plus Two Law,2 Years,AADIM National College
+1860,360,Ten Plus Two Science,2 Years,AADIM National College
+1863,360,Ten Plus Two Management,2 Years,AADIM National College
+1866,361,MBA - Evening Shift,2 Years,Rajdhani Model College
+1870,361,Bachelor of Computer System Information Technology,4 Years,Rajdhani Model College
+1873,361,Bachelor of Hotel Management,4 Years,Rajdhani Model College
+1876,361,Bachelor of Business Administration,4 Years,Rajdhani Model College
+1879,362,Master of Arts in Crisis Management Studies,2 Years,Samarpan Academy Institute of Crisis Management Studies
+1883,362,Master of Arts in Counseling Psychology,2 Years,Samarpan Academy Institute of Crisis Management Studies
+1886,362,Bachelor of Computer Application,4 Years,Samarpan Academy Institute of Crisis Management Studies
+1889,363,GCE A Level Science,2 Years,Islington College
+1893,363,GCE A Level Non-Science,2 Years,Islington College
+1896,363,Bachelor of Business Administration,4 Years,Islington College
+1899,363,BSc (Hons) Computing,3 Years,Islington College
+1902,363,BSc (Hons) Multimedia Technologies,3 Years,Islington College
+1905,363,BSc (Hons) Computer Networking and IT Security,3 Years,Islington College
+1908,363,BSc (Hons) Computing with Artificial Intelligence,3 Years,Islington College
+1911,363,Master of Business Administration,2 Years,Islington College
+1914,363,MSc IT and Applied Security,2 Years,Islington College
+1917,364,Bachelor of Computer Application,4 Years,Padmashree College
+1921,364,Bachelor of Food Technology,4 Years,Padmashree College
+1924,368,Ten Plus Two Management,2 Years,Everest Innovative College
+1928,368,Ten Plus Two Science,2 Years,Everest Innovative College
+1931,368,Ten Plus Two Humanities,2 Years,Everest Innovative College
+1934,368,Bachelor of Arts in Social Work,4 Years,Everest Innovative College
+1937,368,Bachelor of Computer Application,4 Years,Everest Innovative College
+1940,368,Bachelor of Business Studies,4 Years,Everest Innovative College
+1943,369,Bachelor of Computer Science (HONS),1180000.00,IIMS College
+1947,369,Bachelors of Business (HONS),1180000.00,IIMS College
+1950,369,Bachelor of International Hospitality Management (HONS),1007000.00,IIMS College
+1953,370,Bachelor of Computer Application,4 Years,Ed-Mark College
+1957,370,Bachelor of Arts,4 Years,Ed-Mark College
+1960,370,Master of Business Studies,2 Years,Ed-Mark College
+1963,370,Bachelor of Arts in Social Work,4 Years,Ed-Mark College
+1966,370,Bachelor of Business Studies,4 Years,Ed-Mark College
+1969,371,Ten Plus Two Humanities,2 Years,Kathmandu College of Central State
+1973,371,Ten Plus Two Science,2 Years,Kathmandu College of Central State
+1976,371,Ten Plus Two Management,2 Years,Kathmandu College of Central State
+1979,371,Ten Plus Two Law,2 Years,Kathmandu College of Central State
+1982,371,Master of Business Studies,2 Years,Kathmandu College of Central State
+1985,371,Bachelor of Computer Application,4 Years,Kathmandu College of Central State
+1988,371,Bachelor of Arts in Social Work,4 Years,Kathmandu College of Central State
+1991,371,Bachelor of Business Studies,4 Years,Kathmandu College of Central State
+1994,372,Ten Plus Two Humanities,2 Years,Janamaitri Multiple Campus
+1998,372,Master of Education General,2 Years,Janamaitri Multiple Campus
+2001,372,Master of Business Studies,2 Years,Janamaitri Multiple Campus
+2004,372,Bachelor of Education in Information Communication Technology,4 Years,Janamaitri Multiple Campus
+2007,372,Bachelor of Education,4 Years,Janamaitri Multiple Campus
+2010,372,Bachelor of Arts,4 Years,Janamaitri Multiple Campus
+2013,372,Bachelor of Arts in Social Work,4 Years,Janamaitri Multiple Campus
+2016,372,Bachelor of Business Studies,4 Years,Janamaitri Multiple Campus
+2019,372,Bachelor of Business Management,4 Years,Janamaitri Multiple Campus
+2022,372,Bachelor of Computer Application,4 Years,Janamaitri Multiple Campus
+2025,372,Ten Plus Two Science,2 Years,Janamaitri Multiple Campus
+2028,372,Ten Plus Two Management,2 Years,Janamaitri Multiple Campus
+2031,373,Bachelor of Computer Science (Hons) Network Technology & Cyber Security,4 Years,KFA Business School
+2035,373,BSc (Hons) in Hospitality Management,4 Years,KFA Business School
+2038,373,Bachelor (Hons) of Business Administration,4 Years,KFA Business School
+2041,373,Master of Business Administration,2 Years,KFA Business School
+2044,376,BSc Information Technology,1167000.00,Presidential Graduate School
+2048,376,Bachelor of Business Administration,867000.00,Presidential Graduate School
+2051,376,MSc Information Technology,500000.00,Presidential Graduate School
+2054,376,MBA in Data Analytics,557000.00,Presidential Graduate School
+2057,376,MBA in Information Technology,557000.00,Presidential Graduate School
+2060,376,Master of Business Administration,557000.00,Presidential Graduate School
+2063,377,Master of Business Studies,2 Years,Nepalaya College
+2067,377,Bachelor of Business Management,4 Years,Nepalaya College
+2070,377,Bachelor of Computer Application,4 Years,Nepalaya College
+2073,377,Bachelor of Business Studies,4 Years,Nepalaya College
+2076,377,BSc Computer Science and Information Technology,4 Years,Nepalaya College
+2079,377,Ten Plus Two Science,2 Years,Nepalaya College
+2082,377,Ten Plus Two Management,2 Years,Nepalaya College
+2085,377,Ten Plus Two Humanities,2 Years,Nepalaya College
+2088,377,Ten Plus Two Law,2 Years,Nepalaya College
+2091,378,Master of Business Administration,2 Years,Techspire College
+2095,378,BSc (Hons) in Information Technology,3 Years,Techspire College
+2098,379,Bachelor of Arts in Social Work,4 Years,Reliance College
+2102,379,Bachelor of Computer Application,4 Years,Reliance College
+2105,379,Master of Business Studies,2 Years,Reliance College
+2108,379,Bachelor of Business Studies,4 Years,Reliance College
+2111,379,Bachelor of Arts,4 Years,Reliance College
+2114,380,BSc (Hons) in Information Technology,3 Years,Lord Buddha Education Foundation (LBEF)
+2118,380,BSc (Hons) in Computer Science,3 Years,Lord Buddha Education Foundation (LBEF)
+2121,380,Master of Business Administration,2 Years,Lord Buddha Education Foundation (LBEF)
+2124,380,MSc Information Technology,2 Years,Lord Buddha Education Foundation (LBEF)
+2127,380,MSc in Information Technology Weekend,2 Years,Lord Buddha Education Foundation (LBEF)
+2130,380,MBA Weekend,2 Years,Lord Buddha Education Foundation (LBEF)
+2133,383,BSc Computer Science and Information Technology,4 Years,Prime College
+2137,383,Bachelor of Computer Application,4 Years,Prime College
+2140,383,Bachelor of Business Administration,4 Years,Prime College
+2143,383,Bachelor of Information Technology Management,4 Years,Prime College
+2146,383,Bachelor of Business Management,4 Years,Prime College
+2149,383,Bachelor of Business Studies,4 Years,Prime College
+2152,383,Master of Business Studies,2 Years,Prime College
+2155,384,Bachelor of Business Management,4 Years,New Summit College
+2159,384,Ten Plus Two Law,2 Years,New Summit College
+2162,384,Ten Plus Two Humanities,2 Years,New Summit College
+2165,384,Ten Plus Two Management,2 Years,New Summit College
+2168,384,Ten Plus Two Science,2 Years,New Summit College
+2171,384,BSc Computer Science and Information Technology,4 Years,New Summit College
+2174,384,Bachelor of Computer Application,4 Years,New Summit College
+2177,384,Bachelor of Business Studies,4 Years,New Summit College
+2180,386,Ten Plus Two Science,2 Years,Ambition College
+2184,386,Ten Plus Two Management,2 Years,Ambition College
+2187,386,Ten Plus Two Humanities,2 Years,Ambition College
+2190,386,BSc Computer Science and Information Technology,4 Years,Ambition College
+2193,386,Bachelor of Computer Application,4 Years,Ambition College
+2196,386,Bachelor of Business Studies,4 Years,Ambition College
+2199,386,Bachelor of Business Management,4 Years,Ambition College
+2202,386,Bachelor of Arts in Social Work,4 Years,Ambition College
+2205,386,Master of Business Studies,2 Years,Ambition College
+2208,387,GCE A Level Non-Science,2 Years,St. Xavier’s College
+2212,387,GCE A Level Science,2 Years,St. Xavier’s College
+2215,387,Bachelor of Information Technology Management,4 Years,St. Xavier’s College
+2218,387,Bachelor of Arts in Major English,4 Years,St. Xavier’s College
+2221,387,Bachelor of Arts in Social Work,4 Years,St. Xavier’s College
+2224,387,Bachelor of Arts in Psychology,4 Years,St. Xavier’s College
+2227,387,Bachelor of Arts in Journalism and Mass Communication,4 Years,St. Xavier’s College
+2230,387,BSc Computer Science and Information Technology,4 Years,St. Xavier’s College
